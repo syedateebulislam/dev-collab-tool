@@ -1,0 +1,19 @@
+{
+    "putty":    [
+    {
+        "Env":"pymtusr1",
+        "User":"ip1",
+        "Command":"cd .."
+    },
+    {
+        "Env":"pymtusr5",
+        "User":"ip2",
+        "Command":"sh restart.sh"
+    },
+    {
+        "Env":"pymtusr16",
+        "User":"ip3",
+        "Command":"sh restartBancsHome.sh"
+    }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "teams":    [
+    {
+        "Username":"Deepa Rana",
+        "Status":"Available"
+    },
+    {
+        "Username":"Shivangi Vashishtha",
+        "Status":"In Meeting"
+    },
+    {
+        "Username":"Gaurav Mittal",
+        "Status":"Busy"
+    },
+    {
+        "Username":"Akhil",
+        "Status":"Presenting"
+    },
+    {
+        "Username":"Vinay Verma",
+        "Status":"Away"
+    }
+    ]
+}
