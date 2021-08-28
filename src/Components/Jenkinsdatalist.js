@@ -1,9 +1,12 @@
 import React, { Component } from 'react'
-import jenkinsdata from "./jenkinsdata"; 
+import jenkinsdata from "./jenkinsdata";
+import jenkinsapidata from "./jenkinsAPIData";
+import jenkinsalldata from "./jenkinsAllData.json"; 
 import Jenkins from './Jenkins';
 
-const DataList = jenkinsdata.jenkins;
-
+const DataList_1 = jenkinsdata.jenkins;
+const DataList_2 = jenkinsapidata.jenkins;
+const DataList = jenkinsalldata.jenkins;
 class Jenkinsdatalist extends Component {
 
     render() {

@@ -6,7 +6,11 @@ function Jenkins({JenkinsProps}) {
 
             <p>Jenkins Entity - {JenkinsProps.Entity}</p>
             <p>Jar Name - {JenkinsProps.Jar}</p>
-            <p>Build Number - {JenkinsProps.Build}</p> 
+            
+            <p>Build Number - 
+            <a href={JenkinsProps.url}>{JenkinsProps.Build}</a>
+            </p>
+            
             <p>Started By - {JenkinsProps.User}</p>
             <p>Build Status - {JenkinsProps.Status}</p>
             <p>____________</p>

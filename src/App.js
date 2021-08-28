@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1>Developer Collaboration Tool</h1>
+      <u><h1>Developer Collaboration Tool</h1></u>
 
       <Grid name="Jenkins"/>
 
