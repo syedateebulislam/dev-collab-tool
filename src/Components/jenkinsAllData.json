@@ -3,7 +3,7 @@
         {
             "Status": "SUCCESS",
             "Entity": "localhost:8090",
-            "User": "syed ateebul islam",
+            "User": "saud",
             "Build": "1",
             "Jar": "abc",
             "url": "http:\/\/localhost:8090\/job\/abc\/1\/consoleText"
